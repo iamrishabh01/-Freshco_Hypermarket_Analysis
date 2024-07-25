@@ -1,29 +1,36 @@
 # -Freshco_Hypermarket_Analysis
 
-# Introduction
+# Objective:
+The primary objective of this project is to analyze the transaction data from Freshco Hypermarket’s home delivery service to identify key trends and areas for improvement. The goal is to enhance operational efficiency, expand market reach, and increase customer satisfaction.
 
-Freshco Hypermarket, situated in HSR, Bangalore, which has established itself as a prominent supermarket in the region, catering to a wide range of customers. In response to evolving customer needs and to enhance convenience, Freshco introduced a home delivery service in the year 2021. To ensure seamless operations and optimize customer satisfaction, the store diligently maintained a comprehensive transaction data sheet, containing detailed information at the order level.
+# Background:
+Freshco Hypermarket, located in HSR, Bangalore, introduced a home delivery service in 2021 to cater to evolving customer needs. The store maintains a comprehensive transaction data sheet at the order level to ensure seamless operations. This project aims to leverage this data to derive actionable insights.
 
 I completed an in-depth analysis project on Freshco Hypermarket's home delivery service in HSR, Bangalore.
 
-# Here are some of the key highlights:
+# Methodology:
 
-**Order Level Analysis:**
++ **Data Collection:** Gathered detailed order-level transaction data, including order time slots, delivery areas, delivery charges, discounts, and completion rates.<br>
 
-Identified order distribution by slot and delivery area, revealing peak times and popular drop-off locations. Uncovered areas with the highest increase in monthly orders from Jan to Sep, providing insights for targeted marketing efforts. Calculated delivery charges and discounts as a percentage of product amount, aiding in pricing strategy optimization.
++ **Data Analysis:** Analyzed the data to identify patterns and trends in order distribution, delivery charges, discounts, completion rates, and customer acquisition sources.<br>
 
-**Completion Rate Analysis:**
++ **Insight Generation:** Derived key insights regarding order volumes, growth areas, delivery logistics, and customer behavior.<br>
 
-Analyzed completion rates by slot vs. day of the week, identifying patterns and optimizing delivery schedules. Calculated completion rates at drop area and number of products ordered level, enhancing operational efficiency.
++ **Strategy Development:** Proposed actionable strategies to address identified issues and capitalize on opportunities.
 
-**Customer Level Analysis:**
+# Key Insights:
 
-Identified completion rates by customer acquisition source, guiding marketing and customer acquisition strategies. 
++ Orders peak in the morning and afternoon, with lower volumes at night.
++ HSR Layout and ITI Layout are the most active delivery areas, while areas like Bomannahali – MicoLayout and Whitefield show potential for growth.
++ High delivery charges and low discounts impact customer orders during late night slots.
++ The overall completion rate is high, but certain areas like Cox Town need attention due to low completion rates.
 
-**Delivery Analysis:**
+# Expected Outcomes:
 
-Calculated average overall delivery time by month, delivery area, and slot, optimizing delivery operations. Explored patterns in delivery charges and delivery time by slot and area, providing insights for resource allocation and optimization.
++ Operational Efficiency: Improved delivery logistics and reduced delivery times.
++ Market Expansion: Increased order volumes in underperforming areas through targeted marketing.
++ Customer Satisfaction: Enhanced customer experience through better pricing strategies and optimized service times.
++ Business Growth: Higher revenue and customer retention driven by data-informed decision-making.
+# Conclusion:
 
-**Key Insights:**
-
- Identified patterns suggesting higher completion rates during certain times of the day, areas with potential for increased orders, and opportunities for optimizing delivery operations and customer acquisition strategies.
+This project aims to provide Freshco Hypermarket with a comprehensive understanding of its delivery service performance and offer strategic recommendations to optimize operations, expand market reach, and enhance customer satisfaction. By leveraging data-driven insights, Freshco can continue to grow its home delivery service and maintain its reputation as a leading supermarket in Bangalore.
